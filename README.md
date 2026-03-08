@@ -33,13 +33,15 @@ An end-to-end exploratory data analysis of 11,000+ customer transactions from an
 
 
 ---
-📊 Key Findings
+🔍 What the data says
 
 - 💰 Total Revenue₹106.2M
 - 📦 Total Orders27,981
 - 👥 Unique Customers3,752
 - 🛍️ Avg Order Value₹3,797
 
+---
+📊 Key Findings
 - 📍 Uttar Pradesh is the highest revenue-generating state at ₹19.4M
 - 👩 Female customers drive 70% of total revenue
 - 🎯 26-35 age group is the highest spending demographic
